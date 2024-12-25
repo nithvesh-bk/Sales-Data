@@ -1,5 +1,5 @@
 # Sales-Data
-The data consisting of XL sheet's ( OPEN SCOUCES ) and that sheet has of 3 to 4 years of sales data and I filtered the in small and then, I prepared a visualized format by using a visualized tool called POWERBI then I posted output is here with my own knowledge 
+The data consisting of XL sheet's ( OPEN SCOUCES ) and that sheet has of 3 to 4 years of sales data and I filtered that into small and then, I prepared a visualized format by using a visualized tool called POWERBI then I posted output is here with my own knowledge 
 
 ## Problem Statement
 This is a small problem which may helps for the beginner and I personally done by own , in which all filltering the XL sheet's and I designed a visualisation to understand the data without knowing about the data for that i follwed some steps 
